@@ -18,6 +18,7 @@ jquery-turbolinks
 2. Create git repo on github.com
   - http://monosnap.com/image/cMT442pwg5OaZbfRn4LsksKKfTTCNs
 3. Clone to local
+  - http://take.ms/ODD1t
 4. Create new rails app
   - `rails new it-capabilities`
 5. Make sure it runs
