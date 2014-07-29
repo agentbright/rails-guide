@@ -24,7 +24,7 @@ jquery-turbolinks
   - `rails s`
 6. Add postgresql
   - Add ‘gem pg’ to the gemfile
-  - Add .pgapp settings file
+  - Add .pgapp settings file - https://gist.github.com/heyogrady/450bc5868c0daed6c1df
   - remove ‘development.sqllite3
   - Run rake db:create
   - Run rake db:migrate
