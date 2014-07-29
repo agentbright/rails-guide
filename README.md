@@ -28,7 +28,7 @@ jquery-turbolinks
     - Add this file to the config folder - https://gist.github.com/heyogrady/450bc5868c0daed6c1df
     - Change the database names
     - Duplicate the file and remove the .pgapp from the end
-  - remove ‘development.sqllite3
+  - remove ‘development.sqllite3` file
   - Run rake db:create
   - Run rake db:migrate
 
