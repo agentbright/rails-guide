@@ -24,7 +24,7 @@ rails-guide
   - `bundle install`
   - `rails s`
 6. Add postgresql
-  - Add `gem pg` to the gemfile
+  - Add `gem 'pg'` to the gemfile
   - Add settings file
     - Add this file to the config folder - https://gist.github.com/heyogrady/450bc5868c0daed6c1df
     - Change the database names
