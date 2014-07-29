@@ -27,23 +27,23 @@ jquery-turbolinks
   - Run rake db:create
   - Run rake db:migrate
 
-7. Add the following gems
-- jquery-ui-rails - https://github.com/joliss/jquery-ui-rails
+### Add the following gems
+- *jquery-ui-rails* - https://github.com/joliss/jquery-ui-rails
   - add to application.js and application .css
-- simple_form
+- *simple_form*
   - Add simple_form gem
   - DON’T RUN THE GENERATOR YET
   - Add country_select gem
-- jquery-turbolinks - https://github.com/kossnocorp/jquery.turbolinks
+- *jquery-turbolinks* - https://github.com/kossnocorp/jquery.turbolinks
   - Install gem
   - add to application.js
-- devise - https://github.com/plataformatec/devise
+- *devise* - https://github.com/plataformatec/devise
   - Install gem
   - run installer
   - generate devise model ‘User’
   - rake db:migrate
   - Install devise_security_extension - https://github.com/phatworx/devise_security_extension
-- active admin - http://activeadmin.info/
+- *active admin* - http://activeadmin.info/
   - INstall active admin 1.0.0 gem
   - Run active admin installer
 - Add settings.yml file
