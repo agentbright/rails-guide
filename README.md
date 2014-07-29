@@ -21,11 +21,11 @@ jquery-turbolinks
 4. Create new rails app
 5. Make sure it runs
 6. Add postgresql
-- Add ‘gem pg’ to the gemfile
-- Add .pgapp settings file
-- remove ‘development.sqllite3
-- Run rake db:create
-- Run rake db:migrate
+  - Add ‘gem pg’ to the gemfile
+  - Add .pgapp settings file
+  - remove ‘development.sqllite3
+  - Run rake db:create
+  - Run rake db:migrate
 
 7. Add the following gems
 - jquery-ui-rails - https://github.com/joliss/jquery-ui-rails
