@@ -52,7 +52,7 @@ rails-guide
   - Inside group :development, add
   ```
   group :development do
-    gem rails_layout`
+    gem rails_layout
   end
   ```
   - Run rails layout generator
