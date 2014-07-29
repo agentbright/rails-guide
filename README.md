@@ -37,10 +37,12 @@ rails-guide
 
 - *devise* - https://github.com/plataformatec/devise
   - Install gem
-  - run installer
-  - generate devise model ‘User’
-  - rake db:migrate
+  - run installer - `rails generate devise:install`
+  - Run `generate devise model User`
+  - Run `rake db:migrate`
   - Install devise_security_extension - https://github.com/phatworx/devise_security_extension
+    - Add gem
+    - Run installer - `rails generate devise_security_extension:install`
 - *simple_form*
   - Add simple_form gem
   - DON’T RUN THE GENERATOR YET
@@ -48,7 +50,11 @@ rails-guide
 - Install Foundation
   - Add gem foundation-rails
   - Inside group :development, add
-  `gem rails_layout`
+  ```
+  group :development do
+    gem rails_layout`
+  end
+  ```
   - Run rails layout generator
   `rails generate layout:install foundation5 --force`
   - Run simple_form generator
