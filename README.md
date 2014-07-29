@@ -18,7 +18,10 @@ jquery-turbolinks
 2. Create git repo on github.com
 3. Clone to local
 4. Create new rails app
+  - `rails new it-capabilities`
 5. Make sure it runs
+  - `bundle install`
+  - `rails s`
 6. Add postgresql
   - Add ‘gem pg’ to the gemfile
   - Add .pgapp settings file
