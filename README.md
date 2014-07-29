@@ -16,6 +16,7 @@ jquery-turbolinks
 ### Project - Create IT Capabilities Application
 
 2. Create git repo on github.com
+  - http://monosnap.com/image/cMT442pwg5OaZbfRn4LsksKKfTTCNs
 3. Clone to local
 4. Create new rails app
   - `rails new it-capabilities`
