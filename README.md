@@ -15,8 +15,7 @@ jquery-turbolinks
 
 ### Project - Create IT Capabilities Application
 
-1. Create app
-2. Create git repo
+2. Create git repo on github.com
 3. Clone to local
 4. Create new rails app
 5. Make sure it runs
