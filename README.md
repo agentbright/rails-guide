@@ -36,7 +36,7 @@ rails-guide
 
 ### Add the following gems
 
-- *devise* - https://github.com/plataformatec/devise
+- **devise** - https://github.com/plataformatec/devise
   - Install gem
   - run installer - `rails generate devise:install`
   - Run `generate devise model User`
@@ -44,7 +44,7 @@ rails-guide
   - Install devise_security_extension - https://github.com/phatworx/devise_security_extension
     - Add gem
     - Run installer - `rails generate devise_security_extension:install`
-- *simple_form*
+- **simple_form**
   - Add simple_form gem
   - DON’T RUN THE GENERATOR YET
   - Add country_select gem
@@ -60,12 +60,12 @@ rails-guide
   `rails generate layout:install foundation5 --force`
   - Run simple_form generator
   `rails generate simple_form:install --foundation`
-- *jquery-ui-rails* - https://github.com/joliss/jquery-ui-rails
+- **jquery-ui-rails** - https://github.com/joliss/jquery-ui-rails
   - add to application.js and application .css
-- *jquery-turbolinks* - https://github.com/kossnocorp/jquery.turbolinks
+- **jquery-turbolinks** - https://github.com/kossnocorp/jquery.turbolinks
   - Install gem
   - add to application.js
-- *active admin* - http://activeadmin.info/
+- **active admin** - http://activeadmin.info/
   - INstall active admin 1.0.0 gem
   - Run active admin installer
 - Add settings.yml file
