@@ -24,6 +24,7 @@ rails-guide
   - `bundle install`
   - `rails s`
 6. Add postgresql
+  - Remove the line `gem 'sqlite3'` from the gemfile
   - Add `gem 'pg'` to the gemfile
   - Add settings file
     - Add this file to the config folder - https://gist.github.com/heyogrady/450bc5868c0daed6c1df
