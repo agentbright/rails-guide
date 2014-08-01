@@ -50,7 +50,7 @@ rails-guide
   - Add country_select gem
 - Install Foundation
   - Add gem foundation-rails
-  - Also add the rails_layout gem, but it should only be installed in the development environment. To do this, put it inside a :development group, like this:
+  - Also add the rails_layout gem, but it should only be installed in the development environment. To do this, put it inside a :development group in the gemfile, like this:
   ```
   group :development do
     gem 'rails_layout'
