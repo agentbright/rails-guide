@@ -39,7 +39,7 @@ rails-guide
 - **devise** - https://github.com/plataformatec/devise
   - Install gem
   - run installer - `rails generate devise:install`
-  - Run `generate devise model User`
+  - Run `rails generate devise model User`
   - Run `rake db:migrate`
   - Install devise_security_extension - https://github.com/phatworx/devise_security_extension
     - Add gem
