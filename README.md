@@ -68,6 +68,6 @@ rails-guide
 - **active admin** - http://activeadmin.info/
   - INstall active admin 1.0.0 gem
   - Run active admin installer
-- Add settings.yml file
+- Add settings.yml file to the config folder
 - Add setup.rake to lib/tasks
   - https://gist.github.com/heyogrady/8d20b466da747115980
