@@ -53,7 +53,7 @@ rails-guide
   - Also add the rails_layout gem, but it should only be installed in the development environment. To do this, put it inside a :development group, like this:
   ```
   group :development do
-    gem rails_layout
+    gem 'rails_layout'
   end
   ```
   - Run rails layout generator
